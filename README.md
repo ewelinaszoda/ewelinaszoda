@@ -1,18 +1,11 @@
 # Hi, I'm Evie 👋
 
-- 👩‍💻 Full-Stack Developer
-- 👷‍♀️ Civil & structural engineering background
-- 🌎 Travelling
-- 🎹 EDM music 
-- 🏄‍♀️ Snowboarding, wind/kitesurfing
-
 👩‍💻 Full -Stack Developer with a true passion for making great ideas come. I enjoy working with include JavaScript, ReactJS, Ruby, and Ruby on Rails.
 
 ## Projects
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Surfing App that helps find great spot and chat with others surfers.
+- 🌱 I’m currently learning Redux, Firebase
 
 ## 📫 How to reach me
 
