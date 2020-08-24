@@ -1,15 +1,17 @@
-### Hi, I'm Evie 👋
+# Hi, I'm Evie 👋
 
-👩‍💻 Full-Stack Developer
-👷‍♀️ Civil & structural engineering background
-🌎 Travelling
-🎹 EDM music 
-🏄‍♀️ Snowboarding, wind/kitesurfing
+- 👩‍💻 Full-Stack Developer
+- 👷‍♀️ Civil & structural engineering background
+- 🌎 Travelling
+- 🎹 EDM music 
+- 🏄‍♀️ Snowboarding, wind/kitesurfing
 
-Full Stack Developer with a true passion for making great ideas come true. I enojy working with inlcude ReactJS, Ruby on Rails. 
+Full Stack Developer with a true passion for making great ideas come true. I enojy working with inlcude ReactJS, Ruby on Rails.
 
-## Find me around the web 
- 
+## My Project 
+
+## - 📫 How to reach me
+
  Blog 
  Linkedin
  Twitter
