@@ -14,14 +14,14 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-## - 📫 How to reach me
+## 📫 How to reach me
 
  evie.szoda@gmail.com
  Blog 
  Linkedin
  Twitter
  
- - ⚡ Fun fact: 
+## ⚡ Fun fact: 
  
 - 👷‍♀️ Civil & structural engineering background
 - 🌎 Travelling
