@@ -6,7 +6,7 @@
 - 🎹 EDM music 
 - 🏄‍♀️ Snowboarding, wind/kitesurfing
 
-Full Stack Developer with a true passion for making great ideas come true. I enojy working with inlcude ReactJS, Ruby on Rails.
+👩‍💻 Full -Stack Developer with a true passion for making great ideas come. I enjoy working with include JavaScript, ReactJS, Ruby, and Ruby on Rails.
 
 ## Projects
 
@@ -20,6 +20,14 @@ Full Stack Developer with a true passion for making great ideas come true. I eno
  Blog 
  Linkedin
  Twitter
+ 
+ - ⚡ Fun fact: 
+ 
+- 👷‍♀️ Civil & structural engineering background
+- 🌎 Travelling
+- 🎹 EDM music 
+- 🏄‍♀️ Snowboarding, wind/kitesurfing
+ 
  
 <!--
 **ewelinaszoda/ewelinaszoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
