@@ -1,5 +1,19 @@
-### Hi there 👋
+### Hi, I'm Evie 👋
 
+👩‍💻 Full-Stack Developer
+👷‍♀️ Civil & structural engineering background
+🌎 Travelling
+🎹 EDM music 
+🏄‍♀️ Snowboarding, wind/kitesurfing
+
+Full Stack Developer with a true passion for making great ideas come true. I enojy working with inlcude ReactJS, Ruby on Rails. 
+
+## Find me around the web 
+ 
+ Blog 
+ Linkedin
+ Twitter
+ 
 <!--
 **ewelinaszoda/ewelinaszoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
