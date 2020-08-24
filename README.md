@@ -8,10 +8,15 @@
 
 Full Stack Developer with a true passion for making great ideas come true. I enojy working with inlcude ReactJS, Ruby on Rails.
 
-## My Project 
+## Projects
+
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 
 ## - 📫 How to reach me
 
+ evie.szoda@gmail.com
  Blog 
  Linkedin
  Twitter
