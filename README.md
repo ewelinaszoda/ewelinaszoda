@@ -10,7 +10,6 @@
 ## 📫 How to reach me
 
  evie.szoda@gmail.com
- 
  [Blog](https://medium.com/@evelineszoda)  
  [Linkedin](https://www.linkedin.com/in/eveline-szoda)  
  [Twitter](https://twitter.com/EvelineSzoda)
