@@ -18,9 +18,9 @@
 ## ⚡ Fun fact: 
  
 - 👷‍♀️ Civil & structural engineering background
-- 🌎 Travelling
 - 🎹 EDM music 
 - 🏄‍♀️ Snowboarding, wind/kitesurfing
+- 🌎 Travelling
  
  
 <!--
