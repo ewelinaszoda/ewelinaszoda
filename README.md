@@ -19,8 +19,8 @@
  
 - 👷‍♀️ Civil & structural engineering background
 - 🎹 EDM music 
-- 🏄‍♀️ Snowboarding, wind/kitesurfing
 - 🌎 Travelling
+- 🏄‍♀️ Snowboarding, wind/kitesurfing
  
  
 <!--
