@@ -5,7 +5,7 @@
 ## Projects
 
 - 🔭 I’m currently working on a Surfing App that helps to find a great spot and chat with others surfers. Using Google API, React.js, Firebase and Redux.
-- 🌱 I’m currently learning Firebase, Redux, React Native and more
+- 🌱 I’m currently learning TypeScript, Redux, React Native and more
 
 ## 📫 How to reach me
 
