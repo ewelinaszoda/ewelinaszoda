@@ -1,6 +1,6 @@
 # Hi, I'm Evie 👋
 
-👩‍💻 Full Stack Developer with a true passion for making great ideas come. I enjoy working with include JavaScript, ReactJS, Ruby, Ruby on Rails, Firebase.
+👩‍💻 Full Stack Developer with a true passion for making great ideas come. I enjoy working with include JavaScript, React, Ruby, Ruby on Rails, Firebase.
 
 ## Projects
 
