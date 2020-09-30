@@ -14,6 +14,7 @@
  [Blog](https://medium.com/@evelineszoda)  
  [Linkedin](https://www.linkedin.com/in/eveline-szoda)  
  [Twitter](https://twitter.com/EvelineSzoda)
+ [Resume](https://learn.co/delightful-patch-1631/resume)
  
 ## ⚡ Fun fact: 
  
