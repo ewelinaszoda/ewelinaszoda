@@ -11,8 +11,8 @@
 
  evie.szoda@gmail.com
  
- [Blog](https://medium.com/@evelineszoda)  
  [Linkedin](https://www.linkedin.com/in/eveline-szoda)  
+ [Blog](https://medium.com/@evelineszoda)  
  [Twitter](https://twitter.com/EvelineSzoda)
  
  [Resume](https://learn.co/delightful-patch-1631/resume)
