@@ -1,4 +1,4 @@
-# Hi, I'm Evie 👋
+# Hi, I'm Ewelina 👋
 
 👩‍💻 Full Stack Developer with a true passion for making great ideas come. I enjoy working with include JavaScript, React, Ruby, Ruby on Rails, Firebase.
 
